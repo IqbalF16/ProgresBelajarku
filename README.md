@@ -1,13 +1,15 @@
 # ProgresBelajarku
 Repository ini Berisi Pengalaman Belajarku di Dicoding
 
-**14 Juni 2001**  
-Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
-  * Belajar tentang apa itu Java dan alasan menggunakannya
-  * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman java.
+**12 Juni 2022**  
+Belajar dasar Git dengan Github. (Progres 21%)
+  * Belajar tentang apa itu Git, Github dan alasan menggunakannya.
 
-**15 Juni 2001**  
-Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
-  * Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
-  * Belajar control flow dalam Java, seperti perulangan dan percabangan.
-  * Belajar tipe data koleksi, seperti list, set, dan map.
+**13 Juni 2022**  
+Belajar dasar Git dengan Github. (Progres 56%)
+  * Belajar dasar-dasar Git, seperti membuat akun
+  * Belajar repositori di Github.
+
+**20 Juni 2022**  
+Belajar dasar Git dengan Github. (Progres 75%)
+  * Belajar markdown Readme.md
